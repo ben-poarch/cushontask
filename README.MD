@@ -34,7 +34,7 @@ TODO:
 
    1. UX design
 
-   ![UX Mockups](/Users/benpoarch/cushonTask/uxmockups.png)
+   ![UX Mockups](/uxmockups.png)
 
    2. Structure
 
