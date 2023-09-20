@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "userid": "1",
+    "userId": "1",
     "fundId": "1",
     "risk": "Low risk",
     "amount": "25000"
