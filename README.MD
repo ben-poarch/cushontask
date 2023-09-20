@@ -1,11 +1,5 @@
 Cushon Task
 
-TODO:
-
-- validation creating new ISA
-- read from funds.json to array of fund buttons
-- write to investment.json when creating new ISA
-
 1. Breakdown
 
 - Cushon already offers ISAs and Pensions to Employers (to provide to employees)
