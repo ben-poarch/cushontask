@@ -1,4 +1,4 @@
-Cushon Task
+Final interview task for a Fintech Scale-up
 
 1. Breakdown
 
