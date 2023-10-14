@@ -2,7 +2,7 @@ Final interview task for a Fintech Scale-up
 
 1. Breakdown
 
-- Cushon already offers ISAs and Pensions to Employers (to provide to employees)
+- Company already offers ISAs and Pensions to Employers (to provide to employees)
 - They want to offer ISAs directly to customers (not associated to an Employer).
   -They want this to be separate functionality to the Employers functionality.
 - User story:
@@ -10,7 +10,7 @@ Final interview task for a Fintech Scale-up
   2. Restricted to a limit of 1 fund but allow design for easy implementation of lifting this limit to multiple options
   3. Once they make their selection, they should be able to enter amount to invest.
   4. The system should record the fund and amount chosen and allow them to be queried at later date.
-  5. In below solution consider a customer wants to deposit £25,000 into a Cushon ISA, 100% into Cushon Equities Fund.
+  5. In below solution consider a customer wants to deposit £25,000 into a company ISA, 100% into company Equities Fund.
 
 2. Plan
 
@@ -47,7 +47,7 @@ Final interview task for a Fintech Scale-up
 
    - Navigation
 
-     - StackNavigator to match current functionality of Cushon app
+     - StackNavigator to match current functionality of company app
      - Navigation will follow tree in section 1
      - BackButton will be used in the NewFund and ViewFund screens with goBack()
 
