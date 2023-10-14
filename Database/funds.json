@@ -1,6 +1,6 @@
 [
-  { "id": "1", "name": "Equities Fund" },
-  { "id": "2", "name": "Mix" },
+  { "id": "1", "name": "Cushon Equities Fund" },
+  { "id": "2", "name": "CushonMix" },
   { "id": "3", "name": "Default" },
   { "id": "4", "name": "Custom" }
 ]
